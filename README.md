@@ -6,6 +6,7 @@ Here, a raspberry pi 3 is used for the project.
 This is perfomed with Hostapd, DNSMasq.
 
 ### 2 Fake Wifi portal
-
+We need to steal or make a fake wifi login page to seem it real.
 
 ### 3 Honeypot
+Here we'll collect all the credential or the information we can have that seem relevant.
